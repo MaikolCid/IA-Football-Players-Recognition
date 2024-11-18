@@ -15,7 +15,7 @@ This project is a face recognition system specifically designed for identifying 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/MaikolCid/IA-Football-Players-Recognition.git
-   cd player-recognition-system
+   cd IA-Football-Players-Recognition-main
 
 ![image](https://github.com/user-attachments/assets/03add1b9-a9bb-489f-a9f9-cb614654b082)
 ![image](https://github.com/user-attachments/assets/514220a9-37d0-4550-ab02-dd457d0c1878)
